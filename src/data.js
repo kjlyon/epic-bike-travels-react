@@ -23,7 +23,7 @@ export default [
         text: "This route traverses the rugged Dalton Highway, crosses the Arctic Circle, vast tundras, towering mountains, and remote wilderness before reaching the more populated southern regions.",
         link: "https://bikepacking.com/plog/deadhorse-diving-board/"
     },
-    {c
+    {
         id: 3,
         completed: true,
         img: {
