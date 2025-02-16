@@ -79,9 +79,9 @@ body {
 
 .done-icon {
   position: absolute;
-  margin-left: -9%;
-  margin-top: -2%;
-  width: 100px;
+  top: -15px;
+  left: 20px; 
+  width: 90px;
 }
 
 .blog{
@@ -95,7 +95,7 @@ body {
   background: #ffffff;
   text-align: center;
   box-sizing: border-box; 
-
+  position: relative;
   max-width: 30%;
   flex-basis: 50%;
   margin: 5px;

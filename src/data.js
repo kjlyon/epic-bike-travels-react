@@ -20,10 +20,10 @@ export default [
         },
         title: "Haul Road to Anchorage",
         distance: "800",
-        text: "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings.",
+        text: "This route traverses the rugged Dalton Highway, crosses the Arctic Circle, vast tundras, towering mountains, and remote wilderness before reaching the more populated southern regions.",
         link: "https://bikepacking.com/plog/deadhorse-diving-board/"
     },
-    {
+    {c
         id: 3,
         completed: true,
         img: {
@@ -32,7 +32,7 @@ export default [
         },
         title: "Cordova Alaska",
         distance: "45",
-        text: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
+        text: "Following the path of an old railroad, this road eventually becomes impassable at a famous downed bridge. The journey offers stunning glacier views, river crossings, and a true sense of Alaskan adventure.",
         link: "https://www.alaska.org/guide/copper-river-highway"
     },
     {
@@ -44,7 +44,7 @@ export default [
         },
         title: "Golden Circle",
         distance: "245",
-        text: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
+        text: "Cycling from Haines to Skagway loops through Canada’s Yukon before crossing back into Alaska. This route features dramatic coastal fjords, alpine passes, and remote wilderness, plus a scenic ferry ride to complete the loop.",
         link: "https://www.sockeyecycle.com/multiday/self-guided-golden-circle-tour/"
     },
     {
@@ -56,7 +56,7 @@ export default [
         },
         title: "Denali Park Road",
         distance: "92",
-        text: "Toate climates, mountains, goat,s shs incredibel. These are lots of words about it.",
+        text: "With no private vehicle traffic beyond Mile 15, this route offers incredible wildlife encounters, towering peaks, and ever-changing views of Denali itself.",
         link: "https://www.nps.gov/thingstodo/denali-park-road-biking.htm"
     },
     {
@@ -104,7 +104,7 @@ export default [
         },
         title: "Blue Ridge Parkway",
         distance: "469",
-        text: "scenic route through Virginia and North Carolina, renowned for its breathtaking mountain vistas, diverse ecosystems, and rich cultural history.",
+        text: "This Scenic route through Virginia and North Carolina is renowned for its breathtaking mountain vistas, diverse ecosystems, and rich cultural history.",
         link: "https://www.blueridgeparkway.org/biking/"
     },
     {
@@ -128,7 +128,7 @@ export default [
         },
         title: "Idaho Hot Springs",
         distance: "518",
-        text: "this route in Idaho offers a spectacular mix of mountain biking and natural hot springs. The route traverses rugged terrain, scenic backcountry, and includes over 30 natural hot springs.",
+        text: "This route in Idaho offers a spectacular mix of mountain biking and natural hot springs. The route traverses rugged terrain, scenic backcountry, and includes over 30 natural hot springs.",
         link: "https://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/idaho-hot-springs-mountain-bike-route/"
     },
 ]
