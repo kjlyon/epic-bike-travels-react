@@ -1,7 +1,9 @@
-import distIcon from '../assets/distance.png'
-import doneIcon from '../assets/done.png'
+import distIcon from '/assets/distance.png'
+import doneIcon from '/assets/done.png'
 
 export default function Entry(props) {
+    const imgSrc = new URL(`/assets/${props.img.src}`, import.meta.url).href;
+
     return (
         <div className="blogCard">
             
@@ -10,7 +12,7 @@ export default function Entry(props) {
                 <img src={doneIcon} alt="done icon" className="done-icon" />
             )}
 
-            <img src={props.img.src} alt={props.img.alt} className="blogImage" />
+            <img src={imgSrc} alt={props.img.alt} className="blogImage" />
             <div className="blogContent">
                 <h2 className="title">{props.title}</h2>
                 <img 
@@ -28,5 +30,3 @@ export default function Entry(props) {
 
     )
 }
-
-

@@ -10,8 +10,8 @@ export default function Header() {
 
     return (
       <div className="header-container">
-        <div class="header">
-            <h1 class="header-title">Epic Bike Travels</h1>
+        <div className="header">
+            <h1 className="header-title">Epic Bike Travels</h1>
         </div>
         <div className="stats-box">
           <div className="stats-item">{tripsCompleted} of {data.length} Trips Completed</div>

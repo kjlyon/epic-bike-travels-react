@@ -3,7 +3,7 @@ export default [
         id: 1,
         completed: true,
         img: {
-            src: "../assets/florida-bike.jpg",
+            src: "florida-bike.jpg",
             alt: "Kelly and bike at the bouey in Key West"
         },
         title: "Florida Divide",
@@ -15,10 +15,10 @@ export default [
         id: 2,
         completed: true,
         img: {
-            src: "../assets/haul-rd-bike.jpg",
+            src: "haul-rd-bike.jpg",
             alt: "Kelly and bike at Arctic Circle sign"
         },
-        title: "Haul Road to Anchorage",
+        title: "Deadhorse to Anchorage",
         distance: "800",
         text: "This route traverses the rugged Dalton Highway, crosses the Arctic Circle, vast tundras, towering mountains, and remote wilderness before reaching the more populated southern regions.",
         link: "https://bikepacking.com/plog/deadhorse-diving-board/"
@@ -27,7 +27,7 @@ export default [
         id: 3,
         completed: true,
         img: {
-            src: "../assets/cordova-bike.jpg",
+            src: "cordova-bike.jpg",
             alt: "Kelly on bike with mountains in background"
         },
         title: "Cordova Alaska",
@@ -39,7 +39,7 @@ export default [
         id: 4,
         completed: true,
         img: {
-            src: "../assets/golden-circle-bike.jpg",
+            src: "golden-circle-bike.jpg",
             alt: "woman on bike, riding away with hills in background"
         },
         title: "Golden Circle",
@@ -51,7 +51,7 @@ export default [
         id: 5,
         completed: true,
         img: {
-            src: "../assets/denaliPark2.jpg",
+            src: "denaliPark2.jpg",
             alt: "Denali Park Road"
         },
         title: "Denali Park Road",
@@ -63,7 +63,7 @@ export default [
         id: 6,
         completed: true,
         img: {
-            src: "../assets/denaliHighway.jpeg",
+            src: "denaliHighway.jpeg",
             alt: "Denali Highway"
         },
         title: "Denali Highway ",
@@ -75,7 +75,7 @@ export default [
         id: 7,
         completed: false,
         img: {
-            src: "../assets/transBalkan.jpg",
+            src: "transBalkan.jpg",
             alt: "Cyclists enjoy mountain vistas in Slovenia"
         },
         title: "Trans Balkan Route",
@@ -87,7 +87,7 @@ export default [
         id: 8,
         completed: false,
         img: {
-            src: "../assets/transAmericaTrail.jpeg",
+            src: "transAmericaTrail.jpeg",
             alt: "Adventure Cycling Association TransAmerica Trail Logo"
         },
         title: "TransAmerica Trail",
@@ -99,7 +99,7 @@ export default [
         id: 9,
         completed: false,
         img: {
-            src: "../assets/BlueRidgeParkwayLean.jpeg",
+            src: "BlueRidgeParkwayLean.jpeg",
             alt: "bike leaning with red and grean trees in background"
         },
         title: "Blue Ridge Parkway",
@@ -111,7 +111,7 @@ export default [
         id: 10,
         completed: false,
         img: {
-            src: "../assets/loireValley.png",
+            src: "loireValley.png",
             alt: "3 bike packers, one looking back over shoulder at camera "
         },
         title: "Loire Valley, France",
@@ -123,7 +123,7 @@ export default [
         id: 11,
         completed: false,
         img: {
-            src: "../assets/idaho.jpg",
+            src: "idaho.jpg",
             alt: "2 bikepackers looking at a map"
         },
         title: "Idaho Hot Springs",
